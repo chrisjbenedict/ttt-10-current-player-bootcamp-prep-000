@@ -1,4 +1,4 @@
-def turn_counter(board)
+def turn_count(board)
   turns = 0
   board.each do |entry|
     if entry == "X" || entry == "O"
