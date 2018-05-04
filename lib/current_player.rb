@@ -5,3 +5,4 @@ def turn_counter(board)
       turns += 1
     end
   end
+end
